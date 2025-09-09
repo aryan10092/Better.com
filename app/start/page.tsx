@@ -49,7 +49,7 @@ export default function StartPage() {
 
         {/* Progress Bar */}
         <div className="w-full pt-2">
-          <div aria-label="Flow Progress" aria-valuenow="0" aria-valuemin="0" aria-valuetext="0%" aria-valuemax="1" role="progressbar" className="w-full">
+          <div aria-label="Flow Progress" aria-valuetext="0%" role="progressbar" className="w-full">
             <div className="h-1 bg-gray-200">
               <div className="h-full w-0 bg-green-600 transition-all duration-300"></div>
             </div>
