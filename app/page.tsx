@@ -75,7 +75,7 @@ export default function Home() {
       <section className="section bg-white m-auto flex max-w-screen-2xl flex-col justify-between gap-8 p-6 py-20 md:px-10 md:flex-row-reverse xl:p-[140px]">
         <div className="flex flex-col  justify-center md:max-w-[507px]">
           <h2 className="font-bold text-gray-900 leading-none m-0 p-0 w-auto tracking-tight md:tracking-tighter mb-8 text-3xl md:text-4xl lg:text-[88px]">
-            Find out why we're better.
+            Find out why we&#39;re better.
           </h2>
           
           <Link
@@ -132,7 +132,7 @@ export default function Home() {
         <div className="m-auto flex max-w-screen-2xl flex-col items-center md:items-start gap-8 px-6 py-20 md:px-10 lg:gap-[60px]">
           <div className="flex w-full max-w-lg flex-wrap gap-12 lg:gap-6 lg:max-w-none lg:items-end lg:justify-between">
             <h2 className="font-medium text-gray-900 leading-none m-0 p-0 text-4xl  md:tracking-tight w-full lg:pl-12 max-w-lg tracking-tight">
-              Got questions?<br />We've got answers
+              Got questions?<br />We&#39;ve got answers
             </h2>
 
             <div className="flex gap-3 overflow-x-scroll lg:gap-6 [&::-webkit-scrollbar]:w-0 [&::-webkit-scrollbar]:h-0">

@@ -15,7 +15,7 @@ export default function AboutUs() {
             Our mission
           </h1>
           <p className="text-2xl lg:text-5xl font-normal text-black leading-snug">
-            We're making homeownership simpler, faster — and most importantly, more accessible for all Americans.
+            We&#39;re making homeownership simpler, faster — and most importantly, more accessible for all Americans.
           </p>
         </div>
       </section>
@@ -29,9 +29,9 @@ export default function AboutUs() {
                 The status quo is broken
               </h2>
               <p className="text-md text-gray-600 leading-relaxed mb-6">
-                The traditional processes around homeownership are opaque and stressful. Fees aren't transparent 
+                The traditional processes around homeownership are opaque and stressful. Fees aren&#39;t transparent 
                 and some are simply outrageous in size. Traditional mortgage lending is rife with unnecessary fees 
-                and slow, painful processes. It's a system set up to benefit insiders — not you.Better.com CEO, Vishal Garg, set out to change that.
+                and slow, painful processes. It&#39;s a system set up to benefit insiders — not you.Better.com CEO, Vishal Garg, set out to change that.
               </p>
               <p className="text-lg text-gray-600 leading-relaxed">
                 
@@ -41,7 +41,7 @@ export default function AboutUs() {
                 href="#" 
                 className="inline-block mt-6 text-green-500 text-lg font-medium"
               >
-                Read Vishal's story 
+                Read Vishal&#39;s story 
               </Link>
               </div>
             </div>
@@ -77,15 +77,15 @@ export default function AboutUs() {
             
             <div className="lg:order-2">
               <h2 className="text-3xl md:text-5xl font-medium  text-white mb-8">
-                How we're changing things
+                How we&#39;re changing things
               </h2>
               <p className="text-md text-white leading-relaxed mb-6">
                 Homeownership is a huge part of our economy. Housing overall is a $33 trillion business, and mortgages 
                 account for $15 trillion. Yet home finance operates in the same way it has for decades — through opaque 
-                systems and expensive intermediaries whose interests are misaligned with consumers'.
+                systems and expensive intermediaries whose interests are misaligned with consumers&#39;.
               </p>
               <p className="text-md leading-relaxed">
-                That's why Better.com is redefining the homeownership process from the ground up. We're using technology 
+                That&#39;s why Better.com is redefining the homeownership process from the ground up. We&#39;re using technology 
                 to make it faster and more efficient, and humans to help make it friendly and enjoyable.
               </p>
             </div>

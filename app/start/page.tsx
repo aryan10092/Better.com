@@ -72,7 +72,7 @@ export default function StartPage() {
         <div className="max-w-2xl w-full text-center">
           {/* Main Heading */}
           <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-8 leading-tight">
-            <span >Hi, I'm Betsy!</span>
+            <span >Hi, I&#39;m Betsy!</span>
             <br />
             What can I help you with?
           </h1>
@@ -185,7 +185,7 @@ export default function StartPage() {
 
           {/* Benefits Section */}
           <div className="text-left max-w-lg mx-3 md:mx-auto bg-green-50 p-6 ">
-            <p className="text-gray-600 mb-6 text-center">After a few questions, you'll unlock:</p>
+            <p className="text-gray-600 mb-6 text-center">After a few questions, you&#39;ll unlock:</p>
             <div className="space-y-4 center">
               <div className="flex items-center ">
                 <div className="w-6 h-6 mr-4 flex items-center justify-center">

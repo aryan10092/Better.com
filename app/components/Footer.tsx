@@ -34,7 +34,7 @@ export default function Footer() {
                   />
                 </Link>
                 <p className="font-normal leading-body m-0 p-0 text-left text-gray-900 text-sm mt-3">
-                  We can't wait to say "Welcome home." Apply 100% online, with expert customer support.
+                  We can&#39;t wait to say &#34;Welcome home.&#34; Apply 100% online, with expert customer support.
                 </p>
               </li>
 
@@ -221,21 +221,21 @@ export default function Footer() {
         {/* Legal Disclaimers */}
         <div className="mt-12">
           <p className="font-normal leading-body m-0 p-0 text-left text-gray-900 text-xs">
-            <sup>1</sup> Better Mortgage's One Day Mortgage™ promotion offers qualified customers who provide certain required financial information/documentation to Better Mortgage within 4 hours of locking a rate on a mortgage loan the opportunity to receive an underwriting determination from Better Mortgage within 24 hours of their rate lock. The underwriting determination is subject to customary terms, including fraud and anti-money laundering checks, that take place pre-closing and which may trigger additional required documentation from the customer. Better Mortgage does not guarantee that initial underwriting approval will result in a final underwriting approval. See{' '}
+            <sup>1</sup> Better Mortgage&#39;s One Day Mortgage™ promotion offers qualified customers who provide certain required financial information/documentation to Better Mortgage within 4 hours of locking a rate on a mortgage loan the opportunity to receive an underwriting determination from Better Mortgage within 24 hours of their rate lock. The underwriting determination is subject to customary terms, including fraud and anti-money laundering checks, that take place pre-closing and which may trigger additional required documentation from the customer. Better Mortgage does not guarantee that initial underwriting approval will result in a final underwriting approval. See{' '}
             <Link className="font-normal underline focus:outline-green-600 focus:outline-1 focus:outline-offset-2 hover:text-green-600 text-inherit" href="/with/one-day-mortgage-terms">
               One Day Mortgage™ Terms and Conditions.
             </Link>
           </p>
 
           <p className="font-normal leading-body m-0 p-0 text-left text-gray-900 text-xs mt-3">
-            <sup>2</sup>Better Mortgage's One Day HELOC™ promotion offers qualified customers who provide certain required financial information/documentation to Better Mortgage within 4 hours of locking a rate on a HELOC loan the opportunity to receive an underwriting determination from Better Mortgage within 24 hours of their rate lock. The underwriting determination is subject to customary terms, including fraud and anti-money laundering checks, that take place pre-closing and which may trigger additional required documentation from the customer. Better Mortgage does not guarantee that initial underwriting approval will result in final underwriting approval. See{' '}
+            <sup>2</sup>Better Mortgage&#39;s One Day HELOC™ promotion offers qualified customers who provide certain required financial information/documentation to Better Mortgage within 4 hours of locking a rate on a HELOC loan the opportunity to receive an underwriting determination from Better Mortgage within 24 hours of their rate lock. The underwriting determination is subject to customary terms, including fraud and anti-money laundering checks, that take place pre-closing and which may trigger additional required documentation from the customer. Better Mortgage does not guarantee that initial underwriting approval will result in final underwriting approval. See{' '}
             <Link className="font-normal underline focus:outline-green-600 focus:outline-1 focus:outline-offset-2 hover:text-green-600 text-inherit" href="/b/better-mortgage-one-day-heloc-promotion-terms-and-conditions">
               One Day Heloc™ Terms and Conditions.
             </Link>
           </p>
 
           <p className="font-normal leading-body m-0 p-0 text-left text-gray-900 text-xs mt-3">
-            <sup>3</sup>Assumes borrowers are eligible for the Automated Valuation Model (AVM) to calculate their home value, their loan amount is less than $400,000, all required documents are uploaded to their Better Mortgage online account within 24 hours of application, closing is scheduled for the earliest available date and time, and a notary is readily available. Funding timelines may vary and may be longer if an appraisal is required to calculate a borrower's home value.
+            <sup>3</sup>Assumes borrowers are eligible for the Automated Valuation Model (AVM) to calculate their home value, their loan amount is less than $400,000, all required documents are uploaded to their Better Mortgage online account within 24 hours of application, closing is scheduled for the earliest available date and time, and a notary is readily available. Funding timelines may vary and may be longer if an appraisal is required to calculate a borrower&#39;s home value.
           </p>
 
           <hr className="my-8 border-gray-300" />
@@ -256,11 +256,11 @@ export default function Footer() {
           </p>
 
           <p className="font-normal leading-body m-0 p-0 text-left text-gray-900 text-xs mt-4">
-            Better Real Estate, LLC dba BRE, Better Home Services, BRE Services, LLC and Better Real Estate, and operating in the State of California through its wholly owned subsidiary Better Real Estate California Inc., is a licensed real estate brokerage and maintains its corporate headquarters at 325-41 Chestnut Street, Suite 826, Philadelphia, PA 19106. Here is a full listing of Better Real Estate, LLC's{' '}
+            Better Real Estate, LLC dba BRE, Better Home Services, BRE Services, LLC and Better Real Estate, and operating in the State of California through its wholly owned subsidiary Better Real Estate California Inc., is a licensed real estate brokerage and maintains its corporate headquarters at 325-41 Chestnut Street, Suite 826, Philadelphia, PA 19106. Here is a full listing of Better Real Estate, LLC&#39;s{' '}
             <Link className="underline" href="/with/better-realestate-license">
               license numbers
             </Link>
-            . Better Real Estate, LLC provides access to real estate brokerage services via its nationwide network of partner brokerages and real estate agents ("Better Real Estate Partner Agents"). Equal Housing Opportunity. All rights reserved.
+            . Better Real Estate, LLC provides access to real estate brokerage services via its nationwide network of partner brokerages and real estate agents (&#34;Better Real Estate Partner Agents&#34;). Equal Housing Opportunity. All rights reserved.
           </p>
 
           <p className="font-normal leading-body m-0 p-0 text-left text-gray-900 text-xs mt-4">
@@ -295,7 +295,7 @@ export default function Footer() {
           </p>
 
           <p className="font-normal leading-body m-0 p-0 text-left text-gray-900 text-xs mt-4">
-            Insurance quotes and policies are offered through Better Cover, LLC. A Pennsylvania Resident Producer Agency. License #881593. Here is a full listing of Better Cover, LLC's{' '}
+            Insurance quotes and policies are offered through Better Cover, LLC. A Pennsylvania Resident Producer Agency. License #881593. Here is a full listing of Better Cover, LLC&#39;s{' '}
             <Link className="underline" href="https://www.bettercover.com/licenses">
               license numbers
             </Link>
